@@ -1,0 +1,15 @@
+{
+    "production": {
+        "urlAddPort": true,
+        "email": true,
+        "db": {
+            "username": "hackmd",
+            "password": "hackmdpass",
+            "database": "hackmd",
+            "host": "hackmdPostgres",
+            "port": "5432",
+            "dialect": "postgres"
+        },
+        "imageUploadType": "imgur"
+    }
+}
