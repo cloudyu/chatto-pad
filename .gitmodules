@@ -1,3 +1,6 @@
 [submodule "front"]
 	path = front
 	url = https://github.com/cloudyu/chatto-front.git
+[submodule "backend/chatto"]
+	path = backend/chatto
+	url = https://github.com/cloudyu/chatto-backend.git
