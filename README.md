@@ -1,8 +1,8 @@
 # chatto-pad
 A simple ctf pad based on codimd and rocket.chat. To make communication easier!
 
-(chatto)[https://chatto.cloudyu.me]
-(demo)[https://chatto.cloudyu.me/#/game/c29a52ab-9329-4048-a5dd-0a48bd1f5bd7]
+[chatto](https://chatto.cloudyu.me)
+[demo](https://chatto.cloudyu.me/#/game/c29a52ab-9329-4048-a5dd-0a48bd1f5bd7)
 
 # 构成
 在线编辑器 [codimd](https://github.com/hackmdio/codimd)
