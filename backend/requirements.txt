@@ -10,7 +10,7 @@ channels-redis==2.3.3
 chardet==3.0.4
 constantly==15.1.0
 daphne==2.2.4
-Django==2.1.5
+Django==2.2.13
 django-cors-headers==2.4.0
 djangorestframework==3.9.0
 djangorestframework-jwt==1.11.0
